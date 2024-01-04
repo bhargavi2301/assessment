@@ -306,3 +306,93 @@ header {
     grid-template-columns: repeat(2,1fr);
     
 }
+/* page3   css start here......... */
+.page3{
+    background: url(images/apply-bg.jpg);
+    width: 100%;
+    height: 590px;
+}
+.para{
+
+    padding-top: 95px;
+    width: 40%; 
+    gap: 10px;
+}
+.a2{
+    background-color:black; 
+     color: #fff;
+}
+.a2 h2 p button{
+    padding-left: 20px;
+}
+.B1{
+    border-radius: 9px;
+    width: 108px;
+    height: 31px;
+    background-color: brown;
+}
+.a3{
+    margin-top: 95px;
+    padding-top: 45px;
+    border-radius: 19px;
+    border: 2px solid rgb(120, 119, 119);
+    width: 38%;
+    height: 391px;
+    background-color:white;
+    color: #272626;
+}
+.a1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.a3 h3{
+    padding-left: 49px;
+}
+.a3 p {
+    padding-left: 80px;
+}
+/* ....four page */
+.c1{
+    margin-bottom: 86px;
+    padding-right: 10px;
+    width: 22%;
+    height: 243px;
+    position: relative;  
+    background-color: white;
+
+}
+.c1 img{
+    width: 100%;
+    height: 131px;
+    position: absolute;
+    top: 0px;
+}
+
+.c1 h4{
+    color: #252424;
+
+    padding-top:150px;
+    padding-left: 46px;
+} 
+.para2{
+
+    padding-top: 110px;
+    padding-left: 65px;
+    display: flex;
+    gap: 25px;
+    /* justify-content: space-evenly; */
+}
+.count-4{
+    background: url(images/meetings-bg.jpg);
+    height: 590px;
+    width: 100%;
+
+}
+.page4{
+}
+.p-course{
+    padding: 50px;
+    color: white;
+    text-align: start;
+}
+  
