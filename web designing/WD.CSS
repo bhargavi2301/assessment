@@ -319,7 +319,11 @@ header {
     gap: 10px;
 }
 .a2{
-    background-color:black; 
+    background-color:black;
+    opacity: 0.5;
+    padding-bottom: 10px;
+    padding-left: 27px;
+    padding-top: 10px;
      color: #fff;
 }
 .a2 h2 p button{
@@ -395,4 +399,93 @@ header {
     color: white;
     text-align: start;
 }
-  
+.page5{
+    display: flex;
+    background: url(images/facts-bg.jpg);
+    height: 580px;
+}
+.contain5{
+    margin: 50px;
+    width: 50%;
+}
+.contain6{
+  width: 50%;
+
+}
+  .c5{
+    padding-top: 10px;
+    color: white;
+    width: 141px;
+    height: 84px;
+    text-align: center;
+    background-color: black;
+    opacity: 0.3;
+    border-radius: 15px;
+ }
+ .c6{
+    padding-top: 10px;
+    color: white;
+    width: 145px;
+    height: 84px;
+    text-align: center;
+    background-color: black;
+    opacity: 0.3;
+    border-radius: 15px;
+ }
+ .cs5{
+
+    padding-left:65px;
+    padding-top: 56px;
+ }
+ .cs6{
+    padding-left:97px ;
+    padding-top: 136px;
+ }
+ .fact{
+    padding-top: 40px;
+    padding-left: 71px;
+ }
+ .cs{
+ display: flex;
+ }
+ .contain6 img{
+    border-radius: 25px;
+
+    width: 345px;
+    height:378px;
+    margin: 150px;
+ }
+ /* footer... */
+ .page6{
+    display: flex;
+    background: url(images/meetings-bg.jpg);
+ }
+.contain7{
+    width: 80%;
+    border: 2px solid white;
+}
+.contain7 button{
+    height: 34px;
+    width: 199px;
+    border-radius: 20px;
+    background-color: crimson;
+}
+.contain8{
+    width: 20%;
+}
+.tab {
+    padding: 10px;
+    border-radius: 20px;
+    width: 180px;
+    height: 29px;
+}
+.msg{
+    width: 506px;
+    height: 50px;
+    border: 2px solid red;
+}
+.contain8{
+    width: 20px;
+    height: 70px;
+    border: 2px solid rebeccapurple;
+}
